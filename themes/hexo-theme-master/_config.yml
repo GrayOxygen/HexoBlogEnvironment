@@ -1,0 +1,36 @@
+# config
+cover: /ShineOxygenBlog/img/img-bg.jpg
+logo: /ShineOxygenBlog/img/logo.svg
+bio: Java小司机
+
+# Content
+excerpt_link: Read More
+
+# Header  nav
+menu:
+  Home: /
+  Archive: /archive
+  Images: /images
+  Wiki: /wiki
+  Favorites: /favorites
+  Contact: /contact
+
+##Private: /private
+##nav.fonticon.css
+navclass:
+ Home: icon-home
+ Archive: icon-news
+ Images: icon-image
+ Wiki: icon-wiki
+ Favorites: icon-Favorites
+ Contact: icon-mail
+
+##Private: icon-lock
+rss: /atom.xml
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id: 

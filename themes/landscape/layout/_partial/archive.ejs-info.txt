@@ -1,0 +1,11 @@
+显示标签列表   
+       <!--标签页才显示：显示所有标签-->
+       <% if(is_tag("alltags")){%>
+         <% if (site.tags.length ){ %>
+          <div class="widget-wrap">
+            <div class="widget">
+              <%- list_tags({show_count: theme.show_count}) %>
+            </div>
+          </div>
+        <% } %>
+      <%}%>
