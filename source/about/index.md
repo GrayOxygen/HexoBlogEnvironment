@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: 2016-09-21 23:56:35
+date: 2016-09-21 16:56:35
 ---
 
 ![](index/Pierrot-Le-Fou.jpg)
@@ -13,12 +13,9 @@ date: 2016-09-21 23:56:35
 - Wiki: https://grayoxygen.github.io/ShineOxygenWiki
 
 # Me
-- Name: 王辉阳/ShineOxygen
-- Sex: 男/Male
-- Java Developer
-- Beat Maker
-- Jazz&Soul Fan
-- Movie Fan
+- Name: Huiyang Wang
+- Sex: Male
+- Poet/Sound Artist/Software Engineer
 - My Blog
 
 # My Knowlegement

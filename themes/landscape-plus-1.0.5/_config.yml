@@ -4,8 +4,8 @@ menu:
   Archives: /archives
   Wiki: https://grayoxygen.github.io/ShineOxygenWiki
   About Me: /about
-  SiteMap: /sitemap.xml
-  订阅RSS: /atom.xml
+  # SiteMap: /sitemap.xml
+  # 订阅RSS: /atom.xml
 
 # Content
 excerpt_link: 文章详细

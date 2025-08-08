@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ShineOxygen的博客
+title: Huiyang's Blog
 subtitle: 
 description:
-author: 王辉阳
+author: Huiyang Wang
 language: zh-CN
 timezone:
 
@@ -36,6 +36,9 @@ filename_case: 0
 render_drafts: false
 #资源文件: 使用插件hexo-asset-image配合使用
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -73,19 +76,19 @@ theme: landscape-plus-1.0.5
 
 
 # Extensions
-Plugins:
-  hexo-generator-feed
-  hexo-generator-sitemap
+# Plugins:
+  # hexo-generator-feed
+  # hexo-generator-sitemap
 
-#Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+# #Feed Atom
+# feed:
+#   type: atom
+#   path: atom.xml
+#   limit: 20
 
-#sitemap
-sitemap:
-  path: sitemap.xml
+# #sitemap
+# sitemap:
+#   path: sitemap.xml
 
 
 
