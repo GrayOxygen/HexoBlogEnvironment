@@ -9,7 +9,7 @@ date: 2016-09-21 16:56:35
 
 - E-Mail:wanghuiyang5050@aliyun.com
 - GitHub: https://github.com/GrayOxygen
-- Blog: https://grayoxygen.github.io/ShineOxygenBlog
+- Blog: https://grayoxygen.github.io/huiyang
 - Wiki: https://grayoxygen.github.io/ShineOxygenWiki
 
 # Me

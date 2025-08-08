@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://grayoxygen.github.io
-root: /ShineOxygenBlog/
+root: /huiyang/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -34,11 +34,12 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-#资源文件: 使用插件hexo-asset-image配合使用
-post_asset_folder: true
-marked:
-  prependRoot: true
-  postAsset: true
+# 资源文件: 使用插件hexo-asset-image配合使用
+# post_asset_folder: true
+# 引用地址从md文章同名目录去找
+# marked:
+#   prependRoot: true
+#   postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -94,11 +95,11 @@ theme: landscape-plus-1.0.5
 
 
 
-# Deployment
+# Deployment: 本工程用于编辑
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:GrayOxygen/ShineOxygenBlog.git
+  repo: git@github.com:GrayOxygen/huiyang.git
   branch: master
   message: "my blog by hexo"
 

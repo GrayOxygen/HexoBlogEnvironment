@@ -36,8 +36,8 @@ google_plus:
 fb_admins: 
 fb_app_id:
 
-# Duoshuo
-duoshuo_shortname: shineoxygen
-# Baidu share
-baidushare: true
+# # Duoshuo
+# duoshuo_shortname: shineoxygen
+# # Baidu share
+# baidushare: true
  

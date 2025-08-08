@@ -88,7 +88,9 @@ category:
 
 在github的项目主页面，找到setting按钮，进入更改GitHub Pages选项，如图save后提示你已发布
 
-![](page.png)
+<!-- ![](images/manual/page.png) -->
+
+{% asset_img /manual/page.png %}
 
 save保存你所选分支后，提示已发布，wiki已发布到公网，访问吧
 
