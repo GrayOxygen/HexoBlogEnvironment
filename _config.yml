@@ -7,10 +7,16 @@ title: Huiyang's Blog
 subtitle: 
 description:
 author: Huiyang Wang
-language: zh-CN
+language: en
 timezone:
 
-# URL
+# 如果package.json里没配置记得先配置如下scripts，后面npm run start/deploy来运行部署
+# #"scripts": {
+#     "start": "hexo clean && hexo g && hexo s -r /huiyang/",
+#     "deploy": "hexo clean && hexo g && hexo d"
+#   }
+
+# URL，图片必须按/huiyang/xx.png才能找到，所以必须指定-root为/huiyang/
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://grayoxygen.github.io
 root: /huiyang/
@@ -35,11 +41,11 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 # 资源文件: 使用插件hexo-asset-image配合使用
-# post_asset_folder: true
+post_asset_folder: true
 # 引用地址从md文章同名目录去找
-# marked:
-#   prependRoot: true
-#   postAsset: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -72,7 +78,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: landscape-plus-1.0.5
+# theme: landscape-plus
+theme: next
 # theme: hexo-theme-master
 
 
@@ -103,5 +110,9 @@ deploy:
   branch: master
   message: "my blog by hexo"
 
-
-
+# 给next主题设置本地搜索和语言
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
