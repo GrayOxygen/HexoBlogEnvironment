@@ -21,3 +21,6 @@ This work is a audiovisual installation themed on “life”, composed of two in
 
 <iframe src="https://player.vimeo.com/video/1108394692?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="20250730_demonstration_on_a_single_computer"></iframe>
 <iframe src="https://player.vimeo.com/video/1108392066?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="20250724_edited_sound_installation_show"></iframe>
+
+performance with l system
+<iframe src="https://player.vimeo.com/video/1108855783?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="20250810_performance_with_l_system"></iframe>
